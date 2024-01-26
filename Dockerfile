@@ -1,5 +1,5 @@
 FROM httpd
-LABEL this is test label ...
+LABEL this is test label ......
 ENV APP_VERSION=v1.0.0  APP_SECTION=sales  APP_NAME=webapp
 ENV var1=123 var2=hello
 #RUN apt update
